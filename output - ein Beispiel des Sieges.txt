@@ -1,0 +1,54 @@
+Du stehst in einer endlosen Leere. Um dich gibt es keine Baume, keine Menschen... 
+Nur das beängstigendes Nichts...
+Dann siehst du plötzlich eine schwebennde Lichtkugel
+Hallo, Bob. Du bist bestimmt ein bischen überrascht, aber ich freue mich das jemand außer mir auf diesem Ort ist. 
+Du bist in einem Albtraum. Du musst wach werden. Dafür musst du den Ausgang finden. Dabei werde ich dir helfen, aber ich kenne deinen Traum ja nicht. Und noch etwas, probiere nicht so viele Angst_punkte zu haben, denn wenn du viele davon hast zerreist dich die Angst in Stüke.
+Diese Welt ist aber klein [-100, 100] und deswegen probiere es nicht mehr als 100/-100 raus zu gehen. 
+HP: 100 | Gold: 40 | Besiegte Monster: 0 | Standort: (0,0) | Ziel: [-80, -50] | Hunger:100 | Angst_punkte: 0
+Deine Sachen: ['Proviant']
+Du füllst plötzlich Hoffnung. Du bekommst wieder Mut.
+HP: 100 | Gold: 40 | Besiegte Monster: 0 | Standort: (-10,0) | Ziel: [-80, -50] | Hunger:90 | Angst_punkte: 0
+Deine Sachen: ['Proviant']
+Du triffst einen Händler.
+['Proviant']
+HP: 100 | Gold: 25 | Besiegte Monster: 0 | Standort: (-20,0) | Ziel: [-80, -50] | Hunger:80 | Angst_punkte: 0
+Deine Sachen: ['Proviant', 'Proviant']
+Du findest einen Schatz!!!
+HP: 100 | Gold: 48 | Besiegte Monster: 0 | Standort: (-30,0) | Ziel: [-80, -50] | Hunger:70 | Angst_punkte: 0
+Deine Sachen: ['Proviant', 'Proviant']
+Der Zauberer hat dich geheilt!!!
+HP: 100 | Gold: 48 | Besiegte Monster: 0 | Standort: (-40,0) | Ziel: [-80, -50] | Hunger:60 | Angst_punkte: 0
+Deine Sachen: ['Proviant', 'Proviant']
+Oh nein, die Goblins klauen dir was!
+HP: 100 | Gold: 48 | Besiegte Monster: 0 | Standort: (-50,0) | Ziel: [-80, -50] | Hunger:90 | Angst_punkte: 0
+Deine Sachen: []
+Du triffst einen Händler.
+[]
+HP: 100 | Gold: 33 | Besiegte Monster: 0 | Standort: (-60,0) | Ziel: [-80, -50] | Hunger:80 | Angst_punkte: 0
+Deine Sachen: ['Proviant']
+Oh nein, die Goblins klauen dir was!
+HP: 100 | Gold: 33 | Besiegte Monster: 0 | Standort: (-70,0) | Ziel: [-80, -50] | Hunger:70 | Angst_punkte: 0
+Deine Sachen: []
+Es war ein Schummler!!! Er hat 9 Gold geklaut!!!!
+HP: 100 | Gold: 24 | Besiegte Monster: 0 | Standort: (-80,0) | Ziel: [-80, -50] | Hunger:60 | Angst_punkte: 0
+Deine Sachen: []
+Es war eine Falle!
+HP: 89 | Gold: 24 | Besiegte Monster: 0 | Standort: (-80,-10) | Ziel: [-80, -50] | Hunger:50 | Angst_punkte: 1
+Deine Sachen: []
+Der Zombie hat dich bemerkt.
+Der Zombie greift an.
+HP: 98 | Gold: 24 | Besiegte Monster: 1 | Standort: (-80,-20) | Ziel: [-80, -50] | Hunger:40 | Angst_punkte: 2
+Deine Sachen: []
+Du füllst plötzlich Hoffnung. Du bekommst wieder Mut.
+HP: 98 | Gold: 24 | Besiegte Monster: 1 | Standort: (-80,-30) | Ziel: [-80, -50] | Hunger:30 | Angst_punkte: 0
+Deine Sachen: []
+Du spürst, wie die Angst nach dir greift. Du siehst schrecklige Dinge. Du hast Angst.
+HP: 98 | Gold: 24 | Besiegte Monster: 1 | Standort: (-80,-40) | Ziel: [-80, -50] | Hunger:20 | Angst_punkte: 1
+Deine Sachen: []
+Du spürst, wie die Angst nach dir greift. Du siehst schrecklige Dinge. Du hast Angst.
+Lichtkugel: Oh nein, da wartet der Schattenkönig am Ausgang. Du musst ihn mit Mut besiegen.
+Der Schattenkönig hat dich bemerkt.
+Der Schattenkönig greift an.
+HP: 57 | Gold: 24 | Besiegte Monster: 2 | Standort: (-80,-50) | Ziel: [-80, -50] | Hunger:10 | Angst_punkte: 2
+Deine Sachen: []
+Leuchtkugel: Sehr gut gemacht. Du hast deine Angst besiegt! Aber jetzt müssen wir Abschied nehmen. Wir sehen uns wieder...

@@ -12,7 +12,7 @@ Du bist in einem Albtraum und du musst aus ihm herauskommen. Deswegen musst du i
 
 - Du musst mehr als 0 Lebenspunkte haben, sonst hast du verloren.
 
-- Und du darfst nicht mehr als 7 Angstpunkte haben.
+- Und du darfst nicht mehr als 6 Angstpunkte haben.
 
 Du kannst:
 

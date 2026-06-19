@@ -1,0 +1,70 @@
+HP: 100 | Gold: 40 | Besiegte Monster: 0 | Standort: (0,0) | Ziel: [-90, 80] | Hunger:100 | Angst_punkte: 0
+Deine Sachen: ['Proviant']
+Der Geist hat dich bemerkt.
+Der Geist greift an.
+Der Geist wurde besiegt und gab dir etwas Leben!
+HP: 96 | Gold: 40 | Besiegte Monster: 1 | Standort: (-10,0) | Ziel: [-90, 80] | Hunger:90 | Angst_punkte: 1
+Deine Sachen: ['Proviant']
+Du findest einen schwarz gekleideten Zauberer.
+Der Zauberer hat dich geheilt!!!
+HP: 100 | Gold: 40 | Besiegte Monster: 1 | Standort: (-20,0) | Ziel: [-90, 80] | Hunger:80 | Angst_punkte: 1
+Deine Sachen: ['Proviant']
+Der  Wolf hat dich bemerkt.
+Der  Wolf greift an.
+Der  Wolf wurde besiegt und gab dir etwas Leben!
+HP: 103 | Gold: 40 | Besiegte Monster: 2 | Standort: (-30,0) | Ziel: [-90, 80] | Hunger:70 | Angst_punkte: 2
+Deine Sachen: ['Proviant']
+Du triffst einen Händler.
+['Proviant']
+HP: 103 | Gold: 20 | Besiegte Monster: 2 | Standort: (-40,0) | Ziel: [-90, 80] | Hunger:60 | Angst_punkte: 2
+Deine Sachen: ['Proviant', 'Trank des Mutes']
+Du triffst einen Händler.
+[]
+HP: 103 | Gold: 5 | Besiegte Monster: 2 | Standort: (-50,0) | Ziel: [-90, 80] | Hunger:90 | Angst_punkte: 0
+Deine Sachen: ['Proviant']
+Du triffst einen Händler.
+HP: 103 | Gold: 5 | Besiegte Monster: 2 | Standort: (-60,0) | Ziel: [-90, 80] | Hunger:80 | Angst_punkte: 0
+Deine Sachen: ['Proviant']
+Du findest einen schwarz gekleideten Zauberer.
+Der Zauberer hat dich geheilt!!!
+HP: 103 | Gold: 5 | Besiegte Monster: 2 | Standort: (-70,0) | Ziel: [-90, 80] | Hunger:70 | Angst_punkte: 0
+Deine Sachen: ['Proviant']
+Du findest einen schwarz gekleideten Zauberer.
+Es war eine Falle!
+HP: 100 | Gold: 5 | Besiegte Monster: 2 | Standort: (-80,0) | Ziel: [-90, 80] | Hunger:60 | Angst_punkte: 1
+Deine Sachen: ['Proviant']
+Die Goblins konnten nichts klauen.
+HP: 100 | Gold: 5 | Besiegte Monster: 2 | Standort: (-90,0) | Ziel: [-90, 80] | Hunger:90 | Angst_punkte: 1
+Deine Sachen: []
+Du spürst, wie die Angst nach dir greift. Du siehst schrecklige Dinge. Du hast Angst.
+HP: 100 | Gold: 5 | Besiegte Monster: 2 | Standort: (-90,10) | Ziel: [-90, 80] | Hunger:80 | Angst_punkte: 2
+Deine Sachen: []
+Du triffst einen Händler.
+HP: 100 | Gold: 5 | Besiegte Monster: 2 | Standort: (-90,20) | Ziel: [-90, 80] | Hunger:70 | Angst_punkte: 2
+Deine Sachen: []
+Die Goblins konnten nichts klauen.
+HP: 100 | Gold: 5 | Besiegte Monster: 2 | Standort: (-90,30) | Ziel: [-90, 80] | Hunger:60 | Angst_punkte: 2
+Deine Sachen: []
+Die Goblins konnten nichts klauen.
+HP: 100 | Gold: 5 | Besiegte Monster: 2 | Standort: (-90,40) | Ziel: [-90, 80] | Hunger:50 | Angst_punkte: 2
+Deine Sachen: []
+DIE ANGST hat dich bemerkt.
+DIE ANGST greift an.
+DIE ANGST wurde besiegt und gab dir etwas Gold!
+HP: 70 | Gold: 33 | Besiegte Monster: 3 | Standort: (-90,50) | Ziel: [-90, 80] | Hunger:40 | Angst_punkte: 3
+Deine Sachen: []
+Du findest einen schwarz gekleideten Zauberer.
+Es war eine Falle!
+HP: 65 | Gold: 33 | Besiegte Monster: 3 | Standort: (-90,60) | Ziel: [-90, 80] | Hunger:30 | Angst_punkte: 4
+Deine Sachen: []
+Du spürst, wie die Angst nach dir greift. Du siehst schrecklige Dinge. Du hast Angst.
+HP: 65 | Gold: 33 | Besiegte Monster: 3 | Standort: (-90,70) | Ziel: [-90, 80] | Hunger:20 | Angst_punkte: 5
+Deine Sachen: []
+Du findest einen schwarz gekleideten Zauberer.
+Du findest einen Schatz!!!
+Lichtkugel: Oh nein, da wartet der Schattenkönig am Ausgang. Du musst ihn mit deinem Mut besiegen.
+Der Schattenkönig hat dich bemerkt.
+Der Schattenkönig greift an.
+HP: 0 | Gold: 44 | Besiegte Monster: 3 | Standort: (-90,80) | Ziel: [-90, 80] | Hunger:10 | Angst_punkte: 5
+Deine Sachen: []
+Lichtkugel: Du kannst nicht in einem Traum sterben. Du wirst einfach wieder for deinem Computer aufwachen und dich fragen, was hier los ist. Aber keine Sorge, dies heißt nicht 'Leb wohl', sondern 'Wir sehen uns wieder'. Denn wir Albträume sind unsterblich und wir alle sind nur für einen Zweck da... 

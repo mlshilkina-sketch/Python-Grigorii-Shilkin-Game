@@ -25,6 +25,7 @@ Du kannst:
 Diese Sachen kannst du bei einem Händler kaufen.
 
 Manchmal kann ein Zauberer Gutes tun, und manchmal Böses.
+
 Wichtige Info: Ein Zauberer kann dir ein Schwert geben, der dich im Kampf gegen Monster stärker macht.
 
 Da das ein Albtraum ist, gibt es auch Monster hier, die dich angreifen.
